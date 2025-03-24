@@ -1,8 +1,8 @@
 # NLPSEM6
-News Classification Project
+Patient Record Classification Project
 Course: NLP (Semester 6) - Pillai College of Engineering
 Project Overview:
-This project is part of the Natural Language Processing (NLP) course for Semester 6 students at Pillai College of Engineering. The project focuses on News Classification, where we apply various Machine Learning (ML), Deep Learning (DL), and Language Models to categorize news articles into predefined categories. This project involves exploring techniques like text preprocessing, feature extraction, model training, and evaluating the models for their effectiveness in classifying news articles.
+This project is part of the Natural Language Processing (NLP) course for Semester 6 students at Pillai College of Engineering. The project focuses on Patient Record Classification, where we apply various Machine Learning (ML), Deep Learning (DL), and Language Models to categorize news articles into predefined categories. This project involves exploring techniques like text preprocessing, feature extraction, model training, and evaluating the models for their effectiveness in classifying news articles.
 You can learn more about the college by visiting the official website of Pillai College of Engineering.
 Acknowledgements:
 We would like to express our sincere gratitude to the following individuals:
@@ -15,19 +15,16 @@ Neha Ashok
 Shubhangi Chavan
 Their guidance and support have been invaluable throughout this project.
 Project Title:
-News Classification using Natural Language Processing
+Patient Record Classification using Natural Language Processing
 Project Abstract:
-The News Classification project aims to classify news articles into different categories like Sports, Politics, Technology, Entertainment, and Business. This task involves applying Machine Learning, Deep Learning, and Language Models to accurately categorize news text based on its content. The project explores different algorithms, including traditional machine learning techniques, deep learning models, and state-of-the-art pre-trained language models. The goal is to evaluate the performance of each approach and select the best-performing model for news classification.
+Patient records contain critical medical information, and manually categorizing them is time-consuming and error-prone. This project automates patient record classification using machine learning, categorizing medical notes into predefined diagnosis categories. Text preprocessing techniques like tokenization, stopword removal, and lemmatization extract key medical terms, while feature extraction methods capture semantic structures. A supervised learning model assigns diagnosis categories based on linguistic and contextual patterns. By automating classification, this system enhances diagnostic accuracy, reduces manual effort, and improves healthcare decision-making and patient management.
 Algorithms Used:
+
 Machine Learning Algorithms:
-
-
 Logistic Regression
 Support Vector Machine (SVM)
 Random Forest Classifier
 Deep Learning Algorithms:
-
-
 Convolutional Neural Networks (CNN)
 Recurrent Neural Networks (RNN)
 Long Short-Term Memory (LSTM)
@@ -80,7 +77,5 @@ BERT (Bidirectional Encoder Representations from Transformers)
 94.5
 
 Conclusion:
-This News Classification project demonstrates the potential of Machine Learning, Deep Learning, and Language Models for text classification tasks, particularly for categorizing news articles. The comparative analysis reveals that BERT, a transformer-based model, outperforms traditional methods and deep learning models in terms of accuracy, precision, and recall. By employing various algorithms, we gain insights into the strengths and weaknesses of each model, allowing us to choose the most suitable approach for news classification.
 
-This version tailors the description to focus on News Classification while maintaining the structure and content related to the NLP project. It includes relevant details on algorithms used, a comparative analysis table, and the necessary acknowledgments for faculty members involved in the course.
 
